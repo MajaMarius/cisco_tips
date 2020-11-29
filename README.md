@@ -20,3 +20,7 @@ to avoid domain  lookup
  
  
      
+ When you want to save the Cisco device configuration no shotdown is missing for the interfaces that where  powerd up, make sure that you put manually command "no shutdown" at each interface configuration 
+ 
+ 
+     
